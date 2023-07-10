@@ -1,1 +1,7 @@
-# AQT_Frontend_Atividade01_5
+# Arquitetura de Frontend - PUC Minas
+## Atividade 1 - Exercício 5
+
+# Alunos
+
+## Lilian dos Santos
+## Wilson Valente Alonso
